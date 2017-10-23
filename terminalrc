@@ -1,4 +1,4 @@
-; add/append to your ~/.config/xfce/terminal/terminalrc file
+; add to your ~/.config/xfce/terminal/terminalrc file
 
 ; hyper-snazzy theme
 ColorBackground=#282a36
@@ -7,4 +7,4 @@ ColorCursor=#ecf1f3
 
 ; if you are a bit fimilar with Xresources or Xdefaults
 ; you get that order is from Color0 to Color15 (16 colors)
-ColorPalette=#2E3436;#ff5c57;#5af78e;#f3f99d;#57c7ff;#ff6ac1;#9aedfe;#f1f1f0;#686868;#ff5c57;#5af78e;#f3f99d;#57c7ff;#ff6ac1;#$
+ColorPalette=#2E3436;#ff5c57;#5af78e;#f3f99d;#57c7ff;#ff6ac1;#9aedfe;#f1f1f0;#686868;#ff5c57;#5af78e;#f3f99d;#57c7ff;#ff6ac1;#9aedfe;#f1f1f0
